@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Time and Distance Traveled</string>
+    <string name="travelled_distance">Travelled distance:</string>
+    <string name="past_time">Past time:</string>
+    <string name="txt_permissionGPS">Allow use of GPS</string>
+    <string name="txt_enableGPS">Enable GPS</string>
+    <string name="txt_disableGPS">Disable GPS</string>
+    <string name="txt_startRoute">Start route</string>
+    <string name="txt_endRoute">Finish route</string>
+    <string name="no_gps_no_app">No gps, no App</string>
+    <string name="gps_on">Permission given</string>
+    <string name="hint_search">Search</string>
+    <string name="Alert_locationOff">Location off, would you like to enable location?</string>
+    <string name="Alert_gpsAlreadyOff">GPS is already disabled</string>
+    <string name="Alert_gpsOff">Disable GPS</string>
+    <string name="button_yes">YES</string>
+    <string name="button_no">NO</string>
+    <string name="Alert_permissionGranted">Permission already granted</string>
+    <string name="Alert_enableGPS">Enable</string>
+    <string name="Alert_disableGPS2">GPS is off</string>
+    <string name="Alert_requiredPermission">Required gps permission</string>
+    <string name="Alert_routeNoStarted">Route not started</string>
+    <string name="padrao_distance">00:00"</string>
+
+</resources>

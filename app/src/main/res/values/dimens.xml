@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="result_size">190dp</dimen>
+    <dimen name="bt_size">185dp</dimen>
+    <dimen name="bt_txt_height">40dp</dimen>
+    <dimen name="height_size">60dp</dimen>
+    <dimen name="height_size2">50dp</dimen>
+</resources>

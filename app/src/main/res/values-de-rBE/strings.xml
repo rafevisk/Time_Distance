@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Time and Distance Traveled</string>
+    <string name="Alert_requiredPermission">GPS-Berechtigung erforderlich</string>
+    <string name="Alert_enableGPS">Aktiviert</string>
+    <string name="Alert_permissionGranted">Erlaubnis bereits erteilt</string>
+    <string name="button_no">NICHT</string>
+    <string name="button_yes">JA</string>
+    <string name="Alert_gpsOff">GPS deaktiviert</string>
+    <string name="Alert_gpsAlreadyOff">GPS ist bereits deaktiviert</string>
+    <string name="Alert_locationOff">Standort aus, möchten Sie ihn jetzt aktivieren?</string>
+    <string name="hint_search">Suche</string>
+    <string name="gps_on">Erlaubnis abgetreten</string>
+    <string name="no_gps_no_app">Kein GPS, keine App</string>
+    <string name="txt_endRoute">Kurs beenden</string>
+    <string name="txt_startRoute">Route starten</string>
+    <string name="txt_disableGPS">GPS deaktivieren</string>
+    <string name="txt_enableGPS">GPS aktivieren</string>
+    <string name="txt_permissionGPS">Zulässige GPS-Nutzung</string>
+    <string name="travelled_distance">Zurückgelegte Strecke:</string>
+    <string name="past_time">Vergangenheitsform:</string>
+    <string name="Alert_routeNoStarted">Kurs nicht begonnen</string>
+    <string name="Alert_disableGPS2">GPS ist ausgeschaltet</string>
+    <string name="padrao_distance">00:00</string>
+</resources>
